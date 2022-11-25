@@ -22,4 +22,5 @@ Keras에 패키지들이 하나 둘 막히는 것이 프로젝트의 방향이 �
 
 Tensorlfow는 지속적으로 업데이트가 되고 있고 문서화도 비교적 충실하게 되어 있어서 문제를 해결하는데 도움을 받을 수 있습니다.
 
- CNN을 이용한 접근 보다는 Tensorflow Object Detection API을 사용하는 접근이 더 적당해 보입니다. 
+ CNN을 이용한 접근 보다는 Tensorflow Object Detection API을 사용하는 접근이 더 적당해 보입니다.
+ 
