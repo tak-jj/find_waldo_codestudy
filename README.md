@@ -24,3 +24,4 @@ Tensorlfow는 지속적으로 업데이트가 되고 있고 문서화도 비교�
 
  CNN을 이용한 접근 보다는 Tensorflow Object Detection API을 사용하는 접근이 더 적당해 보입니다.
  
+마자용
