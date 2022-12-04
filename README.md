@@ -9,6 +9,9 @@ Find_Waldo 코드를 같이 공부하고 그 결과를 정리한 저장소입니
 ## 코드 설명
 CNN을 사용하여 모델을 만들고 이미지를 학습해 이미지에서 waldo가 있는 곳을 찾는 코드입니다.
 
+## 버전
+
+
 ## 기여
 01. Data Generator : tak-jj
 02. Build Model : seungbummm
