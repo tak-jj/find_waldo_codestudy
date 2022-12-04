@@ -17,6 +17,9 @@ Find_Waldo 코드를 같이 공부하고 그 결과를 정리한 저장소입니
 ## 코드 설명
 CNN을 사용하여 모델을 만들고 이미지를 학습해 이미지에서 waldo가 있는 곳을 찾는 코드입니다.
 
+## 버전
+
+
 ## 기여
 01. Data Generator : tak-jj
 02. Build Model : seungbummm
@@ -30,7 +33,11 @@ Keras에 패키지들이 하나 둘 막히는 것이 프로젝트의 방향이 �
 
 Tensorlfow는 지속적으로 업데이트가 되고 있고 문서화도 비교적 충실하게 되어 있어서 문제를 해결하는데 도움을 받을 수 있습니다.
 
+<<<<<<< HEAD
  CNN을 이용한 접근 보다는 Tensorflow Object Detection API을 사용하는 접근이 더 적당해 보입니다.
  
 마자용
 >>>>>>> 1f03e3bcff3004a52eb442710a1614846fdccc1f
+=======
+ CNN을 이용한 접근 보다는 Tensorflow Object Detection API을 사용하는 접근이 더 적당해 보입니다. 
+>>>>>>> cf887ef607b2ead9a233efe6f67dd970a9db92a1
